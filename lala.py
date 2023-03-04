@@ -1,22 +1,3 @@
-Skip to content
-REHANM91
-/
-Malik91
-Public
-Code
-Issues
-Pull requests
-Actions
-Projects
-Wiki
-Security
-Insights
-Settings
-Beta Try the new code view
-Malik91/Killer.py
-@REHANM91
-REHANM91 Create Killer.py
-…
  1 contributor
 395 lines (364 sloc)  27.7 KB
 
